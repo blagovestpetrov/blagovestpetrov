@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Blagovest Petrov
 - 👀 I’m interested in web development and coaching
-- 🌱 I’m currently learning salesforce
 - 💞️ I’m looking to collaborate on all kinds of projects
 - 📫 How to reach me - petrov_blagovest@yahoo.com
 

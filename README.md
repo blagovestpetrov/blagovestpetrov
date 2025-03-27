@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Blagovest Petrov
 - 👀 I’m interested in web development
-- 💞️ I’m looking to collaborate on all kinds of projects
+- 💞️ I’m looking to collaborate on all interesting and challenging projects
 - 📫 How to reach me - petrov.blagovest@gmail.com
 
 <!---

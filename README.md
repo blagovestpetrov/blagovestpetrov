@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Blagovest Petrov
-- 👀 I’m interested in web development and coaching
+- 👀 I’m interested in web development
 - 💞️ I’m looking to collaborate on all kinds of projects
-- 📫 How to reach me - petrov_blagovest@yahoo.com
+- 📫 How to reach me - petrov.blagovest@gmail.com
 
 <!---
 blagovestpetrov/blagovestpetrov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
